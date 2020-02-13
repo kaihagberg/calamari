@@ -1,4 +1,4 @@
-name: calamari
+name: calenv
 channels:
   - defaults
   - conda-forge
